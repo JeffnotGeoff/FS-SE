@@ -1,0 +1,14 @@
+1. https://github.com/github/gitignore
+	- The standard despoitory of different codding languages, very useful
+
+2. https://github.com/m64p/m64p/releases/tag/v2021.5.12
+	- M64P is an interesting open source take on playing Nintendo 64 games, I grew up with a Nintendo 64 so its feels nice to find something like this
+
+3. https://github.com/microsoft/calculator
+	- It is interesting to be able to see everything running with the Windows installed calculator
+
+4. https://github.com/ssloy/tinyrenderer
+	- This is quite the interesting Depository! Using the program to view OpenGL rendering is actually incredible!
+
+5. https://github.com/kyleneideck/BackgroundMusic
+	- Whilst I do not own any MacOS products, the implementation of background music to an otherwise quiet computer experience sounds neat.
